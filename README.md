@@ -50,3 +50,6 @@ WordPress-based educational website with CMS customization and plugin integratio
 [![Portfolio](http://tanveer67.intelsofts.com/)
 [![LinkedIn](www.linkedin.com/in/md-tanvir-mahmud-munna-72b444400)
 [![Email](mailto:tanveermahmud312@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](http://tanveer67.intelsofts.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/md-tanvir-mahmud-munna-72b444400)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanveermahmud312@gmail.com)
