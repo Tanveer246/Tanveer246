@@ -6,7 +6,6 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 3+ years of professional software development at **Intellect Software Ltd**
 - 🏗️ Built ERP & Business Management systems from monolithic to modern SPA architecture
 - 🎓 IsDB-BISEW IT Scholarship holder — 800 hours of intensive web development training
 - 📍 Based in Dhaka, Bangladesh
